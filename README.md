@@ -6,7 +6,7 @@ There is an abnormal increase in the crime rate and also the number of criminals
 ## ScreenShot
 
 <img src="ScreenShot/screenshot11.jpg" width="500" />
-<img src="SScreenShot/screenshot12.jpg" width="500" />
+<img src="ScreenShot/screenshot12.jpg" width="500" />
 <img src="ScreenShot/screenshot13.jpg" width="500" /> 
 
 ## Proposed System
